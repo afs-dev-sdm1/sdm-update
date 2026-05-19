@@ -1,0 +1,7 @@
+{
+  "versionCode": 43,
+  "versionName": "4.3.0-RELEASE",
+  "updateUrl": "https://example.com/mock.apk",
+  "releaseNotes": "• Seamless background updating\n• High-fidelity visual improvements\n• Core performance & memory speed-ups",
+  "isForceUpdate": false
+}
