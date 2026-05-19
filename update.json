@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "4.3.0-RELEASE",
+  "versionCode": 2,
+  "versionName": "1.0.1-beta",
   "updateUrl": "https://example.com/mock.apk",
-  "releaseNotes": "• Seamless background updating\n• High-fidelity visual improvements\n• Core performance & memory speed-ups",
+  "releaseNotes": "• New version 1.0.1 beta update is ready!\n• Performance updates and core security patches.",
   "isForceUpdate": false
 }
