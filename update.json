@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3-beta",
-  "updateUrl": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/1.0.3/SDm.apk",
-  "releaseNotes": "• New version 1.0.3 beta update is ready!\n• Performance updates \n• Fixed download bugs.\n• Whatsapp status saver added.\n• Dynamic ui fixes.",
+  "versionCode": 5,
+  "versionName": "1.0.4-beta",
+  "updateUrl": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/v1.0.4/SDM.apk",
+  "releaseNotes": "• New version 1.0.4 beta update is ready!\n• bug logging \n• player ui updates.\n• improved update handling.\n• Dynamic ui fixes.",
   "isForceUpdate": false
 }
