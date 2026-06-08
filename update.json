@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6-beta",
-  "updateUrl": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/1.0.6/SDM.apk",
-  "releaseNotes": "• New version 1.0.6 beta update is ready!\n• bug logging \n• Downloder optimized.\n• Dynamic ui fixes.",
+  "versionCode": 8,
+  "versionName": "1.0.7-beta",
+  "updateUrl": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/v1.0.7/SDM.apk",
+  "releaseNotes": "• New version 1.0.7 beta update is ready! \n• Downloder optimized.",
   "isForceUpdate": false
 }
