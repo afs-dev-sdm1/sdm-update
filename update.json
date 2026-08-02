@@ -1,7 +1,7 @@
 {
   "versionCode": 9,
   "versionName": "1.0.8-beta",
-  "updateUrl": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/v1.0.8/SDM.apk",
-  "releaseNotes": "• New version 1.0.8 beta update is ready! \n• Vault dublication fix & progress bar added. \n• feadback system added. \n• Major UI fixes.",
+  "updateUrl": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/1.0.9/SDM.apk",
+  "releaseNotes": "• New version 1.0.9 beta update is ready! \n• NEW AND BETTER UI. \n• DOWNLODER OPTIMIZED. \n• ADDED MOVIES STREAMING.",
   "isForceUpdate": false
 }
