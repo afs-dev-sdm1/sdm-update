@@ -1,20 +1,20 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "updateUrl": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/1.0.10/SDM.apk",
-  "releaseNotes": "• New version 1.0.9 beta update is ready! \n• NEW AND BETTER UI. \n• DOWNLODER OPTIMIZED. \n• ADDED MOVIES STREAMING.",
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "updateUrl": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/v1.0.11/SDM.V1.0.11.apk",
+  "releaseNotes": "• New version 1.0.11 beta update is ready! \n• Movies downloading functionality added. \n• No seek fixed. \n• ADDED MOVIES STREAMING.",
   "isForceUpdate": false,
   "splits": {
     "arm64-v8a": {
-      "url": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/1.0.10/SDM-arm64-v8a.apk",
+      "url": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/v1.0.11/SDM.V1.0.11.apk",
       "size": "65 MB"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/1.0.10/SDM-armeabi-v7a.apk",
+      "url": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/v1.0.11/SDM.V1.0.11.apk",
       "size": "58 MB"
     },
     "universal": {
-      "url": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/1.0.10/SDM.apk",
+      "url": "https://github.com/afs-dev-sdm1/sdm-update/releases/download/v1.0.11/SDM.V1.0.11.apk",
       "size": "115 MB"
     }
   }
